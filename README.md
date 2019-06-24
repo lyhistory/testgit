@@ -6,4 +6,5 @@ edit from local 2
 
 edit from server 1
 edit from server 2
-
+edit from feature 1
+edit from feature 2
